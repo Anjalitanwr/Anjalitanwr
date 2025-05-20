@@ -9,7 +9,7 @@ Database like MYSQL.
   
 - 📫 How to reach me: anjalitanwar8193@gmail.com
 
-- 🔭 I’m currently working as an intern Python Full Stack developer at ACS PVT LTD (NOIDA)
+- 🔭 I’m currently working as an intern Python Full Stack developer at ACS PVT LTD.
   
 ### Connect with my social account:
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/anjali-tanwar-77350b2a6/)
